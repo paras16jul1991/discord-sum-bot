@@ -1,0 +1,23 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "discord-bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "discord-bot"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "bot"
+  ],
+  "author": "parassharma",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
